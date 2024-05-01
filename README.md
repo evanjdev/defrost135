@@ -1,7 +1,5 @@
 👋 Hi, I’m @defrost135
 
-definitely a real human
-
 traditional wedbev trying to learn headless with sanity.io
 
 also learning tailwind, next.js
